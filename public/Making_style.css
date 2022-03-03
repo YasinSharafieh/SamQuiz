@@ -1,0 +1,69 @@
+@font-face {
+    font-family: B_koodack;
+    src: url(IRAN\ Sans\ Regular\ \(mmrostami.blog.ir\).ttf);
+  }
+div a.Math{
+    color: rgb(0, 0, 0);
+    font-family: B_koodack;
+    font-size: 1.2vw;
+    padding: 0%;
+    margin: 0%;
+    float: right;
+    text-decoration: none;
+    font-size: 5vw;
+    position: absolute;
+    top: 23vw;
+    right: 4vw;
+}
+div a.Oloom{
+    color: rgb(0, 0, 0);
+    font-family: B_koodack;
+    font-size: 1.2vw;
+    padding: 0%;
+    margin: 0%;
+    float: right;
+    text-decoration: none;
+    font-size: 5vw;
+    position: absolute;
+    top: 23vw;
+    right: 80vw;
+}
+div a.ghografee{
+    color: rgb(0, 0, 0);
+    font-family: B_koodack;
+    font-size: 1.2vw;
+    padding: 0%;
+    margin: 0%;
+    float: right;
+    text-decoration: none;
+    font-size: 5vw;
+    position: absolute;
+    top: 41vw;
+    right: 44vw;
+}
+div a.Football{
+    color: rgb(0, 0, 0);
+    font-family: B_koodack;
+    font-size: 1.2vw;
+    padding: 0%;
+    margin: 0%;
+    float: right;
+    text-decoration: none;
+    font-size: 5vw;
+    position: absolute;
+    top: 3vw;
+    right: 44vw;
+}
+div a.more{
+    color: rgb(0, 0, 0);
+    font-family: B_koodack;
+    font-size: 1.2vw;
+    padding: 0%;
+    margin: 0%;
+    float: right;
+    text-decoration: none;
+    font-size: 5vw;
+    position: absolute;
+    top: 22vw;
+    right: 40vw;
+}

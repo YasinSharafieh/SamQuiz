@@ -28,7 +28,12 @@ body{
 div .start_btn{
     text-align: center;
 }
-
+div .que_text{
+    text-align: right;
+}
+div .option_list{
+    text-align: right;
+}
 .start_btn,
 .info_box,
 .quiz_box,

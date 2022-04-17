@@ -1,0 +1,27 @@
+{
+  "name": "clear",
+  "version": "1.0.0",
+  "description": "",
+  "main": "ws",
+  "dependencies": {
+    "ejs": "^3.1.6",
+    "express": "^4.17.1",
+    "init": "^0.1.2",
+    "jade": "^1.11.0"
+  },
+  "devDependencies": {
+    "lite-server": "^2.6.1"
+  },
+  "scripts": {
+    "test": "ws"
+  },
+  "repository": {
+    "type": "git",
+    "url": "ws"
+  },
+  "keywords": [
+    "ws"
+  ],
+  "author": "ws",
+  "license": "ISC"
+}

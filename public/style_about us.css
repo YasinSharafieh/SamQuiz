@@ -1,0 +1,76 @@
+@font-face {
+    font-family: B_koodack;
+    src: url(IRAN\ Sans\ Regular\ \(mmrostami.blog.ir\).ttf);
+  }
+
+body nav{
+    margin: 0;
+    padding: 0;
+}
+
+header{
+    
+    background-color: rgb(20, 24, 233);
+    overflow: hidden;
+    position: relative;
+    font-family: B_koodack;
+}
+
+header h1{
+    color: white;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 1.2vw;
+    font-weight: normal;
+    text-align: center;
+    margin: 0.5vw 0;
+}
+
+header a{
+    position: absolute;
+    top: 0.3vw;
+    left: 3vw;
+    color: white;
+    font-size: 1.5vw;
+}
+header a:hover{
+    color: rgb(210, 30, 60);
+}
+
+header .contact{
+    font-family: B_koodack;
+    position: absolute;
+    top: 0.3vw;
+    right: 3vw;
+    direction: rtl;
+    color: white;
+    font-size: 1vw;
+}
+
+header .contact i{
+    color: orange;
+    font-size: 1.3vw;
+    padding-right: 1vw;
+}
+h2{
+    font-size: 1.75vw;
+    text-align: right;
+    margin: 0%;
+    font-family: B_koodack    
+}
+span{
+    font-size: 0.9vw;
+    text-align: right;
+    margin: 0%;
+    font-family: B_koodack    
+    
+}
+p{
+    margin: 0%;
+    font-size: 1.5vw;
+    font-family: B_koodack
+    
+}
+i{
+    margin: 0%;
+    
+}
